@@ -1,6 +1,5 @@
 import React from "react";
 import "./header.css";
-import Switch from "../switch/Switch";
 
 function Header({ children }) {
   return (
